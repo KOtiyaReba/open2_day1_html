@@ -1,0 +1,17 @@
+.box2{
+    border: 2px solid black;
+    margin: 2% 30%;
+    padding: 5% 13%;
+    background-color: #ba9d9d;
+    border-radius: 0.5em;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxoy2QNQTtJVwy8gcvPAs41q-r21R37pSnMg&s");
+}
+.box2 input{
+    border-radius: 0.5em;
+    height: 30px;  
+}
+.box2 button{
+   margin-left: 40%;
+   border-radius: 0.5em;
+   background-color: rgb(213, 213, 227);
+}
